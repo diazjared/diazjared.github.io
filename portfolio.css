@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+background-color: #f03d33;
+margin: 0;
+padding: 0;
+} 
+
+
+
+h1 {
+text-align: center;
+font-family: "Montserrat";
+background-color: #333;
+color: #f2f2f2;
+padding: 14px 16px;
+margin: 0;
+}
+
+
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+#history {
+margin-left: 270px;
+}
+
+.topnav a.active {
+
+    color: white;
+}
+
+
+
+a {
+padding: 20px;
+font-family: "Montserrat";
+color: #000000;  
+}
+
+p {
+padding-top: 5px;
+padding-left: 50px;
+font-size: 20px;
+font-family: "Montserrat";
+margin-right: 100px;
+margin-left: 100px;
+}
+
+#map {
+  height: 450px;
+  border-radius: 25px;
+}
+
+img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+
+.content {
+  font-size: 14px;
+  color: black;
+}
+
+.main {
+  background-color: rgba(34, 55, 71, 0.8);
+  border-radius: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  min-height: 350px;
+  padding: 25px;
+  color: #add4ff;
+  font-family: "Poppins";
+  font-size: 16px;
+}
